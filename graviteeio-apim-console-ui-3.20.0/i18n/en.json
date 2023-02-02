@@ -1,0 +1,156 @@
+{
+  "gv-card": {
+    "empty": "No information to display",
+    "error": "An error has occurred"
+  },
+  "gv-card-list": {
+    "error": "An error has occurred"
+  },
+  "gv-card-full": {
+    "empty": "No information to display",
+    "error": "An error has occurred"
+  },
+  "gv-category": {
+    "empty": "No information to display",
+    "error": "An error has occurred"
+  },
+  "gv-chart": {
+    "empty": "No data to display",
+    "error": "An error has occurred"
+  },
+  "gv-confirm": {
+    "cancel": "No",
+    "ok": "Yes"
+  },
+  "gv-date-picker": {
+    "currentTime": "Current time",
+    "endDate": "End date",
+    "endTime": "End time",
+    "format": "MM/dd/yyyy",
+    "now": "Now",
+    "ok": "Ok",
+    "startDate": "Start date",
+    "startTime": "Start time",
+    "today": "Today"
+  },
+  "gv-file-upload": {
+    "chooseAnotherFile": "Choose another file",
+    "chooseFile": "Choose a file",
+    "error": {
+      "maxSize": "File size exceeds allowed limit",
+      "typeNotAllowed": "This file type is not allowed"
+    },
+    "orDragIt": "or drag it here.",
+    "removePicture": "Remove picture"
+  },
+  "gv-header": {
+    "empty": "No data to display here",
+    "error": "An error occurred while loading",
+    "subscribe": "subscribe"
+  },
+  "gv-input": {
+    "clear": "Cancel",
+    "copy": "Copy to clipboard",
+    "search": "Search"
+  },
+  "gv-list": {
+    "error": "An error occurred while loading list",
+    "paused": "Paused",
+    "pending": "Pending"
+  },
+  "gv-metrics": {
+    "error": "An error occurred while loading metrics",
+    "health": "Health",
+    "hits": "{count, plural, =0{Hit} one{Hit} other{Hits}} (last 7 days)",
+    "subscribers": "{count, plural, =0{Subscriber} one{Subscriber} other{Subscribers}}"
+  },
+  "gv-pagination": {
+    "goTo": "Go to page",
+    "next": "Next",
+    "previous": "Previous",
+    "results": "{count, plural, =0{No result} one{{count} result} other{{count} results}}"
+  },
+  "gv-plans": {
+    "characteristics": {
+      "empty": "No information about this plan"
+    },
+    "empty": {
+      "redirect": "I wish to contact the owner to find out more",
+      "title": "API has no plan available at this time"
+    },
+    "error": "An unexpected error was occurred",
+    "security": {
+      "apiKey": "API Key",
+      "jwt": "Json Web Token",
+      "keyLess": "Without key",
+      "oauth2": "Oauth 2"
+    },
+    "validation": {
+      "auto": "Automatic validation",
+      "manual": "Manual validation"
+    }
+  },
+  "gv-policy-studio": {
+    "policy-settings": "Settings"
+  },
+  "gv-promote": {
+    "empty": "No information to display",
+    "error": "An error has occurred",
+    "view": "View"
+  },
+  "gv-properties": {
+    "add": "Add",
+    "encrypted-toggle": "Encrypted",
+    "placeholder": {
+      "input": "NEW_PROPERTY_KEY=\"New property value\"",
+      "key": "NEW_PROPERTY_KEY",
+      "value": "New property value"
+    },
+    "errors": {
+      "line": "line",
+      "invalid-key": "<code>${key}</code> is not a valid variable name",
+      "duplicated-key": "be careful, the key <code>${key}</code> is already defined",
+      "unknown": "Unknown Error",
+      "invalid-line": "this line is not valid, the correct pattern is: <code>KEY=\"VALUE\"</code>",
+      "invalid-value": "the value is not valid, if you use quotes, you need to escape them like this: <code>\\\\\"</code> or quote the whole value."
+    },
+    "infos": {
+      "encrypted-value": "This value is encrypted. To enter a new value, switch off the encryption toggle.",
+      "overwrite-encryption": "Be careful, the previous encrypted value will be lost"
+    }
+  },
+  "gv-rating": {
+    "description-1": "I hate",
+    "description-2": "I don't like",
+    "description-3": "I like",
+    "description-4": "I love",
+    "description-5": "It's perfect",
+    "note": "Note",
+    "notes": "Notes"
+  },
+  "gv-rating-list": {
+    "answerLabel": "Bring your answer",
+    "cancel": "Cancel",
+    "confirmAnswerDelete": "Are you sure you delete the answer ?",
+    "confirmRatingDelete": "Are you sure you delete the rating ?",
+    "deleteAnswer": "Delete answer",
+    "deleteRating": "Delete rating",
+    "reply": "Reply",
+    "send": "Send"
+  },
+  "gv-row": {
+    "empty": "No data to display here",
+    "error": "An error occurred while loading"
+  },
+  "gv-stats": {
+    "empty": "No data to display here",
+    "error": "An error occurred while loading"
+  },
+  "gv-stepper": {
+    "error": "An error occurred while loading the steps"
+  },
+  "gv-table": {
+    "empty": "No data to display here",
+    "error": "An error occurred while loading"
+  }
+}
